@@ -9,17 +9,16 @@
 <a href="https://fxxkpython.com">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yifengcao3&hide=contribs"/></a></p>
 
-<!--
-**yifengcao3/yifengcao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Socials
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/yifengcao3">
+    <img src="https://github.com/yifengcao3/yifengcao3/blob/main/icons/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-username">
+    <img src="https://github.com/your-github-username/your-repository/blob/main/icons/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-username">
+    <img src="https://github.com/your-github-username/your-repository/blob/main/icons/twitter.png" alt="Twitter" width="40" height="40"/>
+  </a>
+</p>
