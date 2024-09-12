@@ -1,4 +1,13 @@
-## Hi there 👋
+<p align="center">
+ <img width="140" src="https://github.com/yifengcao3/yifengcao3/blob/main/Yifeng.jpeg"/>
+ <h2 align="center">Yifeng Cao</h2>
+ <h3 align="center"> Louisiana State University</h3>
+ <p align="center"> ☀️Ph.D. Candidate in Biological Sciences| Master in Experimental Statistics </p>
+ </p>
+
+<p align="center">
+<a href="https://fxxkpython.com">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yifengcao3&hide=contribs"/></a></p>
 
 <!--
 **yifengcao3/yifengcao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
