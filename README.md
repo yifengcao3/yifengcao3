@@ -12,14 +12,8 @@
 ## Socials
 
 <p align="center">
-  <a href="https://github.com/yifengcao3">
-    <img src="https://github.com/yifengcao3/yifengcao3/blob/main/83941726171078_.pic.jpg" alt="GitHub" width="40" height="40"/>
-  </a>
   <a href="https://www.linkedin.com/in/yifeng-cao-a0020b307">
-    <img src="https://github.com/yifengcao3/yifengcao3/blob/main/83951726171149_.pic.jpg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-username">
-    <img src="https://github.com/yifengcao3/yifengcao3/blob/main/83961726171179_.pic.jpg" alt="Twitter" width="40" height="40"/>
+    <img src="https://github.com/yifengcao3/yifengcao3/blob/main/83961726171179_.pic.jpg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 
