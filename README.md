@@ -11,22 +11,9 @@
 
 ## Tools & Techniques  
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <span>Python</span>
-  <span>SQL</span>
-  <span>XGBoost</span>
-  <span>K-Means</span>
-  <span>Logistic Regression</span>
-  <span>Hypothesis Testing</span>
-  <span>NLP</span>
-  <span>Time Series Forecasting</span>
-  <span>CTR Modeling</span>
-  <span>Network Analysis</span>
-  <span>Seaborn</span>
-  <span>Matplotlib</span>
-  <span>Pandas</span>
-  <span>Scikit-Learn</span>
-</div>
+`R` `Python` `SAS` `SQL`
+| Meta-Analysis | Logistic Regression | Hypothesis Testing | Time Series Forecasting |  
+
 
 ## Socials
 
