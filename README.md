@@ -6,7 +6,6 @@
  </p>
 
 <p align="center">
-<a href="https://fxxkpython.com">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yifengcao3&hide=contribs"/></a></p>
 
 ## Tools & Techniques  
