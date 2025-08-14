@@ -9,6 +9,25 @@
 <a href="https://fxxkpython.com">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yifengcao3&hide=contribs"/></a></p>
 
+## Tools & Techniques  
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <span>Python</span>
+  <span>SQL</span>
+  <span>XGBoost</span>
+  <span>K-Means</span>
+  <span>Logistic Regression</span>
+  <span>Hypothesis Testing</span>
+  <span>NLP</span>
+  <span>Time Series Forecasting</span>
+  <span>CTR Modeling</span>
+  <span>Network Analysis</span>
+  <span>Seaborn</span>
+  <span>Matplotlib</span>
+  <span>Pandas</span>
+  <span>Scikit-Learn</span>
+</div>
+
 ## Socials
 
 <p align="center">
