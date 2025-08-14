@@ -11,8 +11,14 @@
 
 ## Tools & Techniques  
 
-`R` `Python` `SAS` `SQL`
-| Meta-Analysis | Logistic Regression | Hypothesis Testing | Time Series Forecasting |  
+**Programming Tools:**  
+`R` `Python` `SAS` `SQL`  
+
+**Statistical Techniques:**  
+- Meta-Analysis  
+- Logistic Regression  
+- Hypothesis Testing  
+- Time Series Forecasting  
 
 
 ## Socials
