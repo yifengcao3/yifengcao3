@@ -20,8 +20,7 @@ I’m passionate about solving real-world problems through data-driven analysis 
 
 ## Tools & Techniques  
 
-**Programming Tools:**  
-`R` `Python` `SAS` `SQL`  
+**Programming Tools:**  `R` `Python` `SAS` `SQL`  
 
 **Statistical Techniques:**  
 - Meta-Analysis             🔗 [Project](https://github.com/yifengcao3/Meta-analysis)
