@@ -26,5 +26,5 @@ If you're a recruiter, teammate, or fellow data enthusiast, feel free to explore
 I’m passionate about solving real-world problems through data-driven analysis and scalable models.
 
 [Let's connect on LinkedIn!](https://www.linkedin.com/in/yifeng-cao-a0020b307)<a href="https://www.linkedin.com/in/yifeng-cao-a0020b307">
-  <img src="https://github.com/yifengcao3/yifengcao3/blob/main/83961726171179_.pic.jpg" alt="LinkedIn" width="20" height="20"/>
+  <img src="https://github.com/yifengcao3/yifengcao3/blob/main/83961726171179_.pic.jpg" alt="LinkedIn" width="30" height="30"/>
 </a>
