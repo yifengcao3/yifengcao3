@@ -14,8 +14,8 @@
 `R` `Python` `SAS` `SQL`  
 
 **Statistical Techniques:**  
-- Meta-Analysis             🔗 [Project 1](GitHub项目链接1)
-- Time Series Forecasting           🔗 [Project 2](GitHub项目链接1)
+- Meta-Analysis             🔗 [Project](https://github.com/yifengcao3/Meta-analysis)
+- Time Series Forecasting           🔗 [Project](https://github.com/yifengcao3/Time-series)
 - Logistic Regression  
 - Hypothesis Testing  
 
