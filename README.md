@@ -8,6 +8,16 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yifengcao3&hide=contribs"/></a></p>
 
+
+## Let's Connect
+
+If you're a recruiter, teammate, or fellow data enthusiast, feel free to explore my projects—I'd love to collaborate or discuss any of these ideas!
+
+I’m passionate about solving real-world problems through data-driven analysis and scalable models.
+
+[Let's connect on LinkedIn!](https://www.linkedin.com/in/yifeng-cao-a0020b307)
+
+
 ## Tools & Techniques  
 
 **Programming Tools:**  
@@ -18,11 +28,3 @@
 - Time Series Forecasting           🔗 [Project](https://github.com/yifengcao3/Time-series)
 - Logistic Regression  
 - Hypothesis Testing  
-
-## Let's Connect
-
-If you're a recruiter, teammate, or fellow data enthusiast, feel free to explore my projects—I'd love to collaborate or discuss any of these ideas!
-
-I’m passionate about solving real-world problems through data-driven analysis and scalable models.
-
-[Let's connect on LinkedIn!](https://www.linkedin.com/in/yifeng-cao-a0020b307)
