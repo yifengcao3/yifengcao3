@@ -13,9 +13,7 @@
 
 If you're a recruiter, teammate, or fellow data enthusiast, feel free to explore my projects—I'd love to collaborate or discuss any of these ideas!
 
-I’m passionate about solving real-world problems through data-driven analysis and scalable models.
-
-[Let's connect on LinkedIn!](https://www.linkedin.com/in/yifeng-cao-a0020b307)
+I’m passionate about solving real-world problems through data-driven analysis and scalable models. [Let's connect on LinkedIn!](https://www.linkedin.com/in/yifeng-cao-a0020b307)
 
 
 ## Tools & Techniques  
