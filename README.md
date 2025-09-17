@@ -6,7 +6,8 @@
  </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yifengcao3&hide=contribs&show_icons=true&theme=radical&token=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"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yifengcao3&hide=contribs"/>
+
 
 
 ## Let's Connect
