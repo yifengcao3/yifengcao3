@@ -24,4 +24,9 @@ I’m passionate about solving real-world problems through data-driven analysis 
 - Meta-Analysis             🔗 [Project](https://github.com/yifengcao3/Meta-analysis)
 - Time Series Forecasting           🔗 [Project](https://github.com/yifengcao3/Time-series)
 - Logistic Regression  
-- Hypothesis Testing  
+- Hypothesis Testing
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yifengcao3/Snake/output/snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/yifengcao3/Snake/output/snake.svg">
+</picture>
