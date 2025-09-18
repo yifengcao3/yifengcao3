@@ -8,7 +8,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats1-iota-three.vercel.app/api?username=yifengcao3&show_icons=true&theme=flag-india"/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yifengcao3)
 
 ## Let's Connect
 
