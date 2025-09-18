@@ -27,7 +27,7 @@ I’m passionate about solving real-world problems through data-driven analysis 
 - Hypothesis Testing
 
 <details>
-  <summary>🐍 Watch my contribution snake (click this!) </summary>
+  <summary>🐍 Watch my contribution snake (<b>click this!</b>) </summary>
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yifengcao3/Snake/output/snake-dark.svg">
