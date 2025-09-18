@@ -26,7 +26,13 @@ I’m passionate about solving real-world problems through data-driven analysis 
 - Logistic Regression  
 - Hypothesis Testing
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yifengcao3/Snake/output/snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/yifengcao3/Snake/output/snake.svg">
-</picture>
+<details>
+  <summary>🐍 Watch my contribution snake</summary>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yifengcao3/Snake/output/snake-dark.svg">
+      <img alt="snake" src="https://raw.githubusercontent.com/yifengcao3/Snake/output/snake.svg">
+    </picture>
+  </p>
+</details>
+
