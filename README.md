@@ -21,7 +21,7 @@ I’m passionate about solving real-world problems through data-driven analysis 
 **Programming Tools:**  `R` `Python` `SAS` `SQL`  
 
 **Featured Projects:**  
-* Clinical Trial Landscape Analysis in NSCLC 🔗 [Project](https://yifengcao3.github.io/nsclc_clinical_analysis/)
+* Clinical Trial Landscape Analysis in NSCLC 🔗 [Project](https://github.com/yifengcao3/nsclc_clinical_analysis)
 * Meta-Analysis 🔗 [Project](https://github.com/yifengcao3/Meta-analysis)
 * Time Series Forecasting 🔗 [Project](https://github.com/yifengcao3/Time-series)
 
